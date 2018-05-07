@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+.bordered {
+    border: 2px solid purple;
+}
+
+
+.boxed {
+    background-color: cadetblue;
+    color: #333;
+
+}
+
+.colored {
+    color: red;
+}
